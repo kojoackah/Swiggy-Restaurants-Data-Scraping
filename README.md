@@ -1,6 +1,7 @@
 # Swiggy-Restaurants-Data-Scraping
 
 Context
+
 Swiggy is an Indian online food ordering and delivery platform. 
 Founded in July 2014, It is based in Bangalore and operates in 640 Indian cities as of September 2022 (which was 500 as at September 2021). Swiggy is the most on-demand food delivery platform that brings food from neighborhood restaurants directly to customers' doors.
 
